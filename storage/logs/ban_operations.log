@@ -1,0 +1,36 @@
+[2024-02-16 12:57:46] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 13:12:11] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 13:12:15] local.INFO: Oyuncu banlama sayfası açıldı {"user_id":1} 
+[2024-02-16 13:12:25] local.INFO: Oyuncu banlandı {"user_id":1,"player_id":"1"} 
+[2024-02-16 13:13:03] local.INFO: Oyuncu banlama sayfası açıldı {"user_id":1} 
+[2024-02-16 13:13:11] local.INFO: Oyuncu banlandı {"user_id":1,"player_id":"1"} 
+[2024-02-16 13:16:51] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 13:17:05] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 13:17:38] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-02-16 13:17:43] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 14:10:25] local.INFO: Oyuncu banlama sayfası açıldı {"user_id":1} 
+[2024-02-16 14:10:34] local.INFO: Oyuncu banlandı {"user_id":1,"player_id":"1"} 
+[2024-02-16 16:06:20] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 16:07:31] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-02-16 16:07:35] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-02-16 16:07:44] local.INFO: Oyuncu banlama sayfası açıldı {"user_id":1} 
+[2024-02-16 16:07:54] local.INFO: Oyuncu banlandı {"user_id":1,"player_id":"1"} 
+[2024-02-16 16:08:10] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:44:20] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:44:24] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:46:09] local.INFO: Oyuncu ban kaldırıldı {"user_id":1,"player_id":"1"} 
+[2024-05-10 16:46:28] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:46:30] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:47:41] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:47:44] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:48:57] local.INFO: Oyuncu banlama sayfası açıldı {"user_id":1} 
+[2024-05-10 16:49:22] local.INFO: Oyuncu banlandı {"user_id":1,"player_id":"2"} 
+[2024-05-10 16:49:47] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:49:54] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:49:57] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:49:59] local.INFO: Oyuncu banlama sayfası açıldı {"user_id":1} 
+[2024-05-10 16:50:05] local.INFO: Banlanmayan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:50:09] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:50:18] local.INFO: Ban düzenleme sayfası açıldı {"user_id":1,"player_id":2} 
+[2024-05-10 16:50:21] local.INFO: Banlanan oyuncular listelendi {"user_id":1} 
+[2024-05-10 16:50:33] local.INFO: Oyuncu ban kaldırıldı {"user_id":1,"player_id":"2"} 
